@@ -1,9 +1,9 @@
 {
   "name": "compiler-temp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "bin": {
-    "skill-package-compile": "./bin/commanderExample.js"
+    "skill-package-compile": "./bin/skillPackageCompile.js --outDir pqr"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
