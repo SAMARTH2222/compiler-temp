@@ -1,6 +1,6 @@
 {
   "name": "compiler-temp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "bin": {
     "skill-package-compile": "./bin/skillPackageCompile.js --outDir pqr"
@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SAMARTH2222/compilerTemp.git"
+    "url": "git+https://github.com/SAMARTH2222/compiler-temp.git"
   },
   "author": {
     "name": "Samarth Kanakkumar Dave"
   },
   "bugs": {
-    "url": "https://github.com/SAMARTH2222/compilerTemp/issues"
+    "url": "https://github.com/SAMARTH2222/compiler-temp/issues"
   },
-  "homepage": "https://github.com/SAMARTH2222/compilerTemp#readme",
+  "homepage": "https://github.com/SAMARTH2222/compiler-temp#readme",
   "description": ""
 }
