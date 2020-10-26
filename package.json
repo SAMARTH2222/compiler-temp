@@ -1,0 +1,30 @@
+{
+  "name": "compiler-temp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "skill-package-compile": "./bin/commanderExample.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "commander": "^6.2.0"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAMARTH2222/compilerTemp.git"
+  },
+  "author": {
+    "name": "Samarth Kanakkumar Dave"
+  },
+  "bugs": {
+    "url": "https://github.com/SAMARTH2222/compilerTemp/issues"
+  },
+  "homepage": "https://github.com/SAMARTH2222/compilerTemp#readme",
+  "description": ""
+}
