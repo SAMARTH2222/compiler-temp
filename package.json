@@ -1,15 +1,18 @@
 {
   "name": "compiler-temp",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "index.js",
   "bin": {
-    "acc": "./bin/skillPackageCompile.js"
+    "ask-compile": "bin/skillPackageCompile.js",
+    "ask-bundle": "bin/skillPackageBundle.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "commander": "^6.2.0"
+    "commander": "^6.2.0",
+    "del": "^6.0.0",
+    "fs-extra": "^9.0.1"
   },
   "license": "ISC",
   "devDependencies": {
